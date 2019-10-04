@@ -4,6 +4,10 @@
 These are slides for a talk that I will give to the UW-Madison biomedial data
 science students on 30 Oct 2019.
 
+I was strongly influenced by [Emi Tanaka](https://emitanaka.org)'s
+[talk on this subject](https://emitanaka.org/talk/2019-08-18-isiwsc2019/)
+([see her slides](https://emitanaka.org/slides/ISIWSC2019)).
+
 PDF of slides at [kbroman.org/Talk_SocialMedia](https://kbroman.org/Talk_SocialMedia)
 
 ---
